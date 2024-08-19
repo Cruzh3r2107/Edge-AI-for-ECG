@@ -1,5 +1,5 @@
 # Edge-AI-for-ECG
-Our project seeks to design an Internet of Things (IoT) device empowering  individuals with accessible yet efficient monitoring capabilities over their heart health status. 
+The project seeks to design an Internet of Things (IoT) device empowering  individuals with accessible yet efficient monitoring capabilities over their heart health status. 
 To collect relevant physiological data we employ a three lead sensor that can effectively 
 capture a persons electrocardiogram signals for heart function measurements. Those signals 
 feed into our specialized one-dimensional convolutional neural network (1 D CNN) model 
